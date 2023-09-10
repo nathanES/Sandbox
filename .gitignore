@@ -2,6 +2,11 @@
 /Sandbox/Sandbox/bin/Debug
 Sandbox/.idea
 
+#Fichiers sensibles #
+#####################
+/Sandbox/Sandbox/ApiKeys.cs
+
+
 # Compiled source #
 ###################
 *.com
