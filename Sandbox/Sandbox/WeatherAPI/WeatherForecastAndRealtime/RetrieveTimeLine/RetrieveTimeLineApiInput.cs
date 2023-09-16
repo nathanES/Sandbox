@@ -1,4 +1,4 @@
-namespace Sandbox.RetrieveTimeLine;
+namespace Sandbox.WeatherForecastAndRealtime.RetrieveTimeLine;
 
 public class RetrieveTimeLineApiInput
 {
@@ -9,4 +9,8 @@ public class RetrieveTimeLineApiInput
     public string StartTime { get; set; }
     public string EndTime { get; set; }
     public string TimeZone { get; set; }
+    private void IsValidInput()
+    {
+        //Todo faire le contrôle des champs (required)
+    }
 }
