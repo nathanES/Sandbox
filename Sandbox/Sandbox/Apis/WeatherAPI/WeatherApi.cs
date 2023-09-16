@@ -3,16 +3,16 @@ using System.Net.Http.Json;
 using System.Text;
 using System.Text.Json.Serialization;
 using Newtonsoft.Json;
-using Sandbox.HistoricalWeather.RetrieveClimateNormals;
-using Sandbox.HistoricalWeather.RetrieveHistoricalWeather;
-using Sandbox.HistoricalWeather.WeatherRecentHistory;
-using Sandbox.WeatherForecastAndRealtime.RealTimeWeather;
-using Sandbox.WeatherForecastAndRealtime.RetrieveARoute;
-using Sandbox.WeatherForecastAndRealtime.RetrieveTimeLine;
-using Sandbox.WeatherForecastAndRealtime.WeatherForecast;
-using Sandbox.WeatherMaps;
+using Sandbox.Apis.HistoricalWeather.RetrieveClimateNormals;
+using Sandbox.Apis.HistoricalWeather.RetrieveHistoricalWeather;
+using Sandbox.Apis.HistoricalWeather.WeatherRecentHistory;
+using Sandbox.Apis.WeatherForecastAndRealtime.RealTimeWeather;
+using Sandbox.Apis.WeatherForecastAndRealtime.RetrieveARoute;
+using Sandbox.Apis.WeatherForecastAndRealtime.RetrieveTimeLine;
+using Sandbox.Apis.WeatherForecastAndRealtime.WeatherForecast;
+using Sandbox.Apis.WeatherMaps;
 
-namespace Sandbox;
+namespace Sandbox.Apis;
 
 public class WeatherApi
 {

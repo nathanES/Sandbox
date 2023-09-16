@@ -1,4 +1,4 @@
-namespace Sandbox.WeatherForecastAndRealtime.RetrieveARoute;
+namespace Sandbox.Apis.WeatherForecastAndRealtime.RetrieveARoute;
 
 public class RetrieveARouteApiInput
 {

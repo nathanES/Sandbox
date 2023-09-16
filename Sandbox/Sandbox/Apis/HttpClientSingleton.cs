@@ -1,4 +1,4 @@
-namespace Sandbox;
+namespace Sandbox.Apis;
 
 public sealed class HttpClientSingleton
 {

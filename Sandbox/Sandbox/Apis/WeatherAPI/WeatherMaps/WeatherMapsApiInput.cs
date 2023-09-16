@@ -1,4 +1,4 @@
-namespace Sandbox.WeatherMaps;
+namespace Sandbox.Apis.WeatherMaps;
 
 public class WeatherMapsApiInput
 {

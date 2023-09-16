@@ -1,4 +1,4 @@
-namespace Sandbox.HistoricalWeather.WeatherRecentHistory;
+namespace Sandbox.Apis.HistoricalWeather.WeatherRecentHistory;
 
 public class WeatherRecentHistoryApiInput
 {

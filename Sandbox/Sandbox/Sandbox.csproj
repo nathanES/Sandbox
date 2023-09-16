@@ -17,9 +17,6 @@
 
 
 
-    <ItemGroup>
-      <Folder Include="WeatherAPI\WeatherForecastAndRealtime\" />
-    </ItemGroup>
 
 
     </ItemGroup>

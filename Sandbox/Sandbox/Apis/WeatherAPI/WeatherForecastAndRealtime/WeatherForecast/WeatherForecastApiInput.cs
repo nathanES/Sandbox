@@ -1,4 +1,4 @@
-namespace Sandbox.WeatherForecastAndRealtime.WeatherForecast;
+namespace Sandbox.Apis.WeatherForecastAndRealtime.WeatherForecast;
 
 public class WeatherForecastApiInput
 {

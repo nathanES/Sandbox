@@ -1,4 +1,4 @@
-namespace Sandbox.HistoricalWeather.RetrieveClimateNormals;
+namespace Sandbox.Apis.HistoricalWeather.RetrieveClimateNormals;
 
 public class RetrieveClimateNormalsApiInput
 {
